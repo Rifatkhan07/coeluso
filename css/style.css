@@ -1,0 +1,366 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 7, 2017, 1:40:43 AM
+    Author     : Rifat
+*/
+
+/* header */
+
+body{
+
+    background: url(../image/bg.jpg);
+    font-family: 'Montserrat', sans-serif;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+.wrapper{
+    width: 1100px;
+    margin: 0 auto;
+}
+
+/* logo part */
+
+.main_section{}
+.logo_{}
+.logo_section{}
+.logo>img{
+    float: left;
+    margin-top: 50px;
+}
+.logo>p{color: white;padding-top: 73px;font-size: 20px;}
+
+/* logo part */
+
+/*header content*/
+.headphone_section{}
+.header_contant{}
+.header_contant>h1{
+    color: white;
+    letter-spacing: 2px;
+    font-size: 31px;
+}
+.header_contant>p{
+    color: #2a5da3;
+    font-size: 13px;
+    padding-bottom: 40px;
+}
+.explore{
+    background: transparent;
+    color: white;
+    border: 1px solid #2a5da3;
+    border-radius: 20px;
+    font-size: 10px;
+    padding: 10px 20px;
+}
+.explore:hover{
+    color: white;
+}
+
+/*header content*/
+
+/*add section*/
+.adds_section{
+    margin-top: 9em;
+    background: url(../image/coeluso_music_app-assignment.png);
+    background-size: 70% 40%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.adds{
+
+}
+.add1{
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    transition: all .5s;
+
+}
+.add1:hover{
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    transform: scale(1.2);
+
+}
+.add2{
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    transition: all .5s;
+
+}
+.add2:hover{
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    transform: scale(1.2);
+
+}
+.add3{
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    transition: all .5s;
+
+}
+.add3:hover{
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    transform: scale(1.2);
+
+}
+.add1>img{
+    max-width: 400px;
+}
+.add2{
+}
+.add2>img{
+    max-width: 400px;
+    max-height: 577px;
+}
+.add3{}
+.add3>img{
+    max-width: 400px;
+}
+
+
+/*add section*/
+
+/*headphone section*/
+
+.headphone_section{
+    padding-top: 6em;
+}
+.headphone{}
+.headphone>img{
+    max-width: 430px;
+}
+.headphone_contant{
+    padding-top: 1em;
+    padding-left: 6em;
+}
+.headphone_contant>h2{
+    color: white;
+    font-size: 28px;
+}
+.headphone_contant>p{
+    color: #a2a2a2;
+    font-size: 13px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.view{
+    background: transparent;
+    color: white;
+    border: 1px solid #2a5da3;
+    border-radius: 20px;
+    font-size: 10px;
+    padding: 10px 34px;
+}
+.view:hover{
+    color: white;
+}
+/*headphone section*/
+
+/*feature section*/
+
+.feacher_section{
+    padding-top: 8em;
+    position: relative;
+    padding-bottom: 10em;
+    overflow: hidden;
+}
+.feacher>h1{
+    color: white;
+    font-size: 28px;
+} 
+.feacher1{
+    padding-top: 8em;
+}
+.feacher1>.speaker{}
+.feacher1>.speaker>img{
+    max-width: 45px;
+}
+.feacher1>.speaker>h4{
+    color: white;
+}
+.feacher1>.speaker>p{
+    color: #a2a2a2;
+    font-size: 10px;
+    white-space: pre-line;
+    line-height: 25px;
+}
+.feacher1>.activity{
+    padding-top: 4em;
+}
+.feacher1>.activity>img{
+    max-width: 45px;
+}
+.feacher1>.activity>h4{
+    color: white;
+}
+.feacher1>.activity>p{
+    color: #a2a2a2;
+    font-size: 10px;
+    white-space: pre-line;
+    line-height: 25px;
+}
+.feacher2{}
+.feacher2>img{
+    max-width: 650px;
+    position: absolute;
+    content: "";
+    transform: translate(-50%,-11%);
+}
+.feacher3{
+    padding-top: 8em;
+}
+.feacher3>.headphone_logo{}
+.feacher3>.headphone_logo>img{
+    max-width: 45px;
+}
+.feacher3>.headphone_logo>h4{
+    color: white;
+}
+.feacher3>.headphone_logo>p{
+    color: #a2a2a2;
+    font-size: 10px;
+    white-space: pre-line;
+    line-height: 25px;
+}
+.feacher3>.cd_logo{
+    padding-top: 4em;
+}
+.feacher3>.cd_logo>img{
+    max-width: 45px;
+}
+.feacher3>.cd_logo>h4{
+    color: white;
+}
+.feacher3>.cd_logo>p{
+    color: #a2a2a2;
+    font-size: 10px;
+    white-space: pre-line;
+    line-height: 25px;
+}
+
+/*feature section*/ 
+
+/*graphic section*/
+
+.graphic_section{
+    padding-top: 7em;
+    padding-bottom: 6em;
+}
+.graphic_contant{
+    padding-top: 10em;
+}
+.graphic_contant>img{
+    max-width: 50px;
+    margin-right: 28em;
+}
+
+.graphic_contant>h4{
+    color: white;
+    font-size: 25px;
+    padding-top: 30px;
+}
+.graphic_contant>p{
+    color: #a2a2a2;
+    font-size: 9px;
+    white-space: pre-line;
+    padding-top: 18px;
+    line-height: 25px;
+}
+.graphic_logo{}
+.graphic_logo>img{
+    max-width: 1028px;
+}
+
+/*graphic section*/
+
+/*bullet*/
+
+.bullet_section{
+    background: url(../image/coeluso_bullet-bg.png);
+    min-height: 580px;
+}
+.bullet>h6{
+    color: #a2a2a2;
+    white-space: pre-line;
+    line-height: 30px;
+    font-size: 15px;
+    padding-top: 10em;
+}
+.img1{
+    max-width: 53px;
+    margin-left: 30em;
+    margin-top: 5em;
+}
+.img2{
+    max-width: 240px;
+    padding-top: 78px;
+    margin-left: -20px;
+}
+
+/*bullet*/
+
+/*discover section*/
+
+.discover_section{
+}
+.discover>h1{
+    color: white;
+    font-size: 22px;
+    padding-top: 5em;
+}
+.discover>p{
+    color: #a2a2a2;
+    white-space: pre-line;
+    font-size: 11px;
+    line-height: 22px;
+    padding-top: 12px;
+}
+.discover>img{
+    margin-top: -11em;
+}
+.download{
+    background: transparent;
+    color: white;
+    border: 1px solid #2a5da3;
+    border-radius: 20px;
+    font-size: 10px;
+    padding: 10px 30px;
+    margin-top: -40em;
+}
+.download:hover{
+    color: white;
+}
+/*discover section*/
+
+/*footer*/
+
+.footer_section{
+    background: #010102;
+    min-height: 110px;
+}
+.footer_menu{}
+.footer_menu>ul{
+    padding-top: 3em;
+}
+.footer_menu>ul>li{}
+.footer_menu>ul>li>a{
+    color: #2a5da3;
+}
+.footer_paragraph{}
+.footer_paragraph>p{
+    color: #2a5da3;
+    padding-top: 3em;
+}
+
+
+/*footer*/
+
+
+
